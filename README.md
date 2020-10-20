@@ -1,10 +1,12 @@
 # angular-microfrontends
 
 Microfrontends built with Angular Elements and webcomponent
-We will need a few dependencies to build and run Angular custom elements. Install the following dependencies inside your custom-element using following commands.
+We will need a few dependencies to build and run Angular custom elements. 
 
-#1. ng add @angular/elements
-#2. ng add ngx-build-plus
+#Install the following dependencies inside your custom-element using following commands.
+
+ng add @angular/elements
+ng add ngx-build-plus
 
 #Let us also install the http-server module inside the flight-booking project.
 npm i -g http-server --save
